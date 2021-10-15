@@ -1,0 +1,67 @@
+h2 {
+    color: black;
+}
+p {
+    color: black;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #ffe18e !important;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    color: white;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    background-color:#2a8f29;
+}
+.slider3 h2{
+    color: white;
+}
+.ashu h2{
+    color: white;
+}
+.ashu p{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    text-align: left;
+    padding: 0px!important;
+}
+input{
+    outline: none;
+}input:focus{
+    border: 1px solid red;
+    box-shadow: 0px 0px 3px red;
+}input{
+    outline: none;
+}
+section.About1e {
+    background-color: bisque;
+}
+section.About1e ul li {
+    font-size: 13px;
+}
+li {
+    line-height: 2;
+}
+.col-md-2.About4e {
+    padding: 20px;
+}
+.col-md-2.About5e {
+    padding: 20px;
+}
+.col-md-2.About6e {
+    padding: 20px;
+}
+.col-md-6.About7e {
+    padding: 20px;
+}
+.About5e ul li a{
+    color: inherit;
+}
+.About5e ul li a: focus{
+    border: 1px solid red;
+    box-shadow: 0px 0px 3px red;
+    
+}
